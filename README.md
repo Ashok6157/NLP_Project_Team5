@@ -92,7 +92,7 @@ This system is **not a replacement for clinical advice**. Generated responses ar
 
 ---
 
-## 👥 Authors
+## Submitted by
 
 - Ashok Kumar Jarugubilli  
 - Neeraj Babu Vaddepalli

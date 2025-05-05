@@ -56,13 +56,6 @@ Models were assessed on:
 
 ---
 
-## Visualization
-
-![image](https://github.com/user-attachments/assets/1c89f2c7-aa18-482e-8e6f-534ab78715ca)
-
-
----
-
 ## Environment
 
 - Python 3.10  
